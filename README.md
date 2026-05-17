@@ -1,5 +1,7 @@
 # Breaking the Cycle: A Programmatic Theory of Change for Children in GBV-Affected Households
 
+![Diagram of ToR](Diagram%20of%20ToR_%20Breaking%20the%20Cycle.png)
+
 This document presents a programmatic Theory of Change and Logical Framework for a proposed mental health intervention targeting children and adolescents aged 12–17 living in households affected by gender-based violence in the United States.
 
 The program addresses a critical gap in the GBV support ecosystem — while existing services focus primarily on adult survivors, the psychological needs of children in these households remain largely unaddressed. Drawing on randomized controlled trial evidence from trauma-focused CBT research, this ToC outlines how structured weekly CBT group sessions can reduce trauma symptoms, improve emotional regulation, and build long-term resilience among this population before harmful behavioral patterns are established.
