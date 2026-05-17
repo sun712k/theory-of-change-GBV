@@ -1,6 +1,6 @@
 # Breaking the Cycle: A Programmatic Theory of Change for Children in GBV-Affected Households
 
-![Diagram of ToR](Diagram%20of%20ToR_%20Breaking%20the%20Cycle.png)
+<img src="Diagram%20of%20ToR_%20Breaking%20the%20Cycle.png" alt="Diagram of ToR" width="70%">
 
 This document presents a programmatic Theory of Change and Logical Framework for a proposed mental health intervention targeting children and adolescents aged 12–17 living in households affected by gender-based violence in the United States.
 
