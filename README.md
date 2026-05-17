@@ -1,0 +1,9 @@
+# Breaking the Cycle: Trauma-Informed CBT Program for Children in GBV-Affected Households
+
+This document presents a programmatic Theory of Change and Logical Framework for a proposed mental health intervention targeting children and adolescents aged 12–17 living in households affected by gender-based violence in the United States.
+
+The program addresses a critical gap in the GBV support ecosystem — while existing services focus primarily on adult survivors, the psychological needs of children in these households remain largely unaddressed. Drawing on randomized controlled trial evidence from trauma-focused CBT research, this ToC outlines how structured weekly CBT group sessions can reduce trauma symptoms, improve emotional regulation, and build long-term resilience among this population before harmful behavioral patterns are established.
+
+The document includes a problem statement, evidence base, target population, assumptions, inputs, activities, outputs, short and long-term outcomes, impact statement, and a logical framework with indicators and means of verification.
+
+Please note: This is a working paper and is not intended as a final or published document. Feedback and suggestions are welcome.
