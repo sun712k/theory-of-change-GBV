@@ -1,4 +1,4 @@
-# Breaking the Cycle: A Programmatic Theory of Change for Children in GBV-Affected Households
+# Breaking the Cycle: A Programmatic Theory of Change for CBT for Children in GBV-Affected Households
 
 <img src="Diagram%20of%20ToR_%20Breaking%20the%20Cycle.png" alt="Diagram of ToR" width="70%">
 
